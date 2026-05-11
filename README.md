@@ -101,8 +101,14 @@ End-to-end mobile automation framework for iOS and Android using Appium + Java +
 
 ## 📊 GitHub Stats
 
-![Ranjeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranjeetksingh55&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjeetksingh55&layout=compact&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ranjeetksingh55&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjeetksingh55&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ranjeetksingh55&theme=tokyonight&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ranjeetksingh55&color=0077B5&style=flat&label=Profile+Views)
 
 ---
 
